@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varsha Goli</h1>
-<h3 align="center">Experienced software developer, MSCS @UT Dallas, 2024.</h3>
+<h3 align="center"> Software developer 🖥️👩‍💻, MSCS @UT Dallas, 2024.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshagoli2&label=Profile%20views&color=0e75b6&style=flat" alt="varshagoli2" /> </p>
 
